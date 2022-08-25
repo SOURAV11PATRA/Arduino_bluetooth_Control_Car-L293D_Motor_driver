@@ -1,7 +1,8 @@
 # Arduino_bluetooth_Control_Car-L293D_Motor_driver
 
 
-![IMG20220824205348_copy_798x749](https://user-images.githubusercontent.com/68585330/186735097-3e15998e-2728-48ab-bea1-60587c085bee.jpg)
+
+![IMG_20220825_224031](https://user-images.githubusercontent.com/68585330/186734564-2d2d0501-542f-4500-8261-aea39913fd9e.png)
 
 This is my first Arduino-based, Bluetooth-controlled RC car. It is controlled by a smart phone application.
 
@@ -16,4 +17,4 @@ Step 4: Pair your Android device and HC-05 over Bluetooth. Now, open the app and
 Step 5: Now you have gone through all the hard work ! Just sit back and relax and use the on-screen controls available on the app to control the car/bot. You could also change the schematic and code, and add some servos or other actuators to it. But keep it mind as you increase the quantity of actuators, your car/bot would demand more power from the battery/battery-pack. 
 
 
-![IMG_20220825_224031](https://user-images.githubusercontent.com/68585330/186734564-2d2d0501-542f-4500-8261-aea39913fd9e.png)
+![IMG20220824205348_copy_798x749](https://user-images.githubusercontent.com/68585330/186735097-3e15998e-2728-48ab-bea1-60587c085bee.jpg)
